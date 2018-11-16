@@ -1,0 +1,35 @@
+main{
+    margin-top: 10px;
+}
+
+.card-img{
+    width: 100%;
+}
+
+header{
+    display: block;
+    overflow: auto;
+    width: 100%;
+    background-color: orange;
+}
+
+div.card{
+    border: 1px lightgray solid;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.char, .desc{
+    padding-left: 10px;
+    color: gunmetal;
+}
+
+h1{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+p{
+    margin-top: 10px;
+}
